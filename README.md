@@ -46,7 +46,11 @@ jupyter notebook 2_Lora_Project_2_(1).ipynb
 4.	Follow each cell sequentially to:
  
 •	Load the base model
+
 •	Apply LoRA
+
 •	Prepare dataset
+
 •	Train the model
+
 •	Evaluate results
