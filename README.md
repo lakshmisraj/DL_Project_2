@@ -25,19 +25,19 @@ This project explores **Low-Rank Adaptation (LoRA)** for parameter-efficient fin
 ## 🔧 Requirements
 
 Install the following Python libraries:
+
 <pre>
-```bash
 pip install transformers datasets peft accelerate
-```
 </pre>
+
 How to Run
 	1.	Clone this repository or download the .ipynb file.
 	2.	Install the dependencies listed above.
 	3.	Open the notebook in Jupyter Notebook or JupyterLab:
 
-```bash
+<pre>
 jupyter notebook 2_Lora_Project_2_(1).ipynb
-```bash
+</pre>
 	4.	Follow each cell sequentially to:
 	•	Load the base model
 	•	Apply LoRA
