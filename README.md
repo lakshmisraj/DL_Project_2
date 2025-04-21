@@ -18,7 +18,7 @@ This project explores **Low-Rank Adaptation (LoRA)** for parameter-efficient fin
 
 ├── Final_LoRaFits_Project_2.ipynb   # Main notebook with code and explanation
 
-├── submission.csv # csv file with output on test dataet submitted to kaggle
+├── Final_submission.csv # csv file with output on test dataet submitted to kaggle
 
 ├── README.md                    # Project description (this file)
 
