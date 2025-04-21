@@ -16,7 +16,7 @@ This project explores **Low-Rank Adaptation (LoRA)** for parameter-efficient fin
 
 ## 📁 Project Structure
 
-├── 2_Lora_Project_2_(1).ipynb   # Main notebook with code and explanation
+├── Final_LoRaFits_Project_2.ipynb   # Main notebook with code and explanation
 
 ├── README.md                    # Project description (this file)
 
@@ -39,7 +39,7 @@ How to Run
 3.	Open the notebook in Jupyter Notebook or JupyterLab:
 
 <pre>
-jupyter notebook 2_Lora_Project_2_(1).ipynb
+jupyter notebook Final_LoRaFits_Project_2.ipynb
 </pre>
 
 
