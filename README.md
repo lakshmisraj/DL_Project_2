@@ -17,16 +17,19 @@ This project explores **Low-Rank Adaptation (LoRA)** for parameter-efficient fin
 ## 📁 Project Structure
 .
 ├── 2_Lora_Project_2_(1).ipynb   # Main notebook with code and explanation
+
 ├── README.md                    # Project description (this file)
+
 ---
 
 ## 🔧 Requirements
 
 Install the following Python libraries:
-
+<pre>
 ```bash
 pip install transformers datasets peft accelerate
-```bash
+```
+</pre>
 How to Run
 	1.	Clone this repository or download the .ipynb file.
 	2.	Install the dependencies listed above.
