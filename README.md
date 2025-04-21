@@ -54,3 +54,12 @@ jupyter notebook 2_Lora_Project_2_(1).ipynb
 •	Train the model
 
 •	Evaluate results
+
+===== MODEL CONFIGURATION SUMMARY =====
+Model architecture: RoBERTa with LoRA adapter
+LoRA rank (r): 16
+LoRA alpha: 32
+Target modules: {'query', 'value', 'key'}
+Total trainable parameters: 884,736
+Validation accuracy: 0.9376
+Test accuracy: 0.9404
