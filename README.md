@@ -26,7 +26,7 @@ Install the following Python libraries:
 
 ```bash
 pip install transformers datasets peft accelerate
-
+```bash
 How to Run
 	1.	Clone this repository or download the .ipynb file.
 	2.	Install the dependencies listed above.
@@ -34,7 +34,7 @@ How to Run
 
 ```bash
 jupyter notebook 2_Lora_Project_2_(1).ipynb
-
+```bash
 	4.	Follow each cell sequentially to:
 	•	Load the base model
 	•	Apply LoRA
