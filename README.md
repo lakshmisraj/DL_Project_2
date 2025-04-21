@@ -32,11 +32,11 @@ pip install transformers datasets peft accelerate
 
 How to Run
 
-	1.	Clone this repository or download the .ipynb file.
+1.	Clone this repository or download the .ipynb file.
  
-	2.	Install the dependencies listed above.
+2.	Install the dependencies listed above.
  
-	3.	Open the notebook in Jupyter Notebook or JupyterLab:
+3.	Open the notebook in Jupyter Notebook or JupyterLab:
 
 <pre>
 jupyter notebook 2_Lora_Project_2_(1).ipynb
@@ -45,8 +45,8 @@ jupyter notebook 2_Lora_Project_2_(1).ipynb
 
 4.	Follow each cell sequentially to:
  
-	•	Load the base model
-	•	Apply LoRA
-	•	Prepare dataset
-	•	Train the model
-	•	Evaluate results
+•	Load the base model
+•	Apply LoRA
+•	Prepare dataset
+•	Train the model
+•	Evaluate results
