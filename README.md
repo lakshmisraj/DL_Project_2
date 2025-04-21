@@ -15,7 +15,7 @@ This project explores **Low-Rank Adaptation (LoRA)** for parameter-efficient fin
 ---
 
 ## 📁 Project Structure
-.
+
 ├── 2_Lora_Project_2_(1).ipynb   # Main notebook with code and explanation
 
 ├── README.md                    # Project description (this file)
@@ -40,6 +40,7 @@ jupyter notebook 2_Lora_Project_2_(1).ipynb
 </pre>
 
 	4.	Follow each cell sequentially to:
+ 
 	•	Load the base model
 	•	Apply LoRA
 	•	Prepare dataset
