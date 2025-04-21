@@ -38,6 +38,7 @@ How to Run
 <pre>
 jupyter notebook 2_Lora_Project_2_(1).ipynb
 </pre>
+
 	4.	Follow each cell sequentially to:
 	•	Load the base model
 	•	Apply LoRA
